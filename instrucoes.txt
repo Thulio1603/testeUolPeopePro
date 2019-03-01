@@ -1,0 +1,15 @@
+﻿Instruções para entrega dos testes
+
+__Homepage Responsiva
+- Seguem os layouts: DESKTOP (maior que 992px) lp_uol_ec_nfl_2018.jpg e MOBILE (menor que 768px) lp_uol_ec_nfl_2018_mobile.jpg;
+- Arquivo index.html como versão base já com a chamada do Bootstrap e da fonte UOL;
+
+
+__E-mail MKT
+- Layout (email_uec.jpg) que deverá funcionar nos principais serviços de e-mail do mercado (Outlook, Gmail, UOL/BOL, Yahoo e Hotmail) Dica: uso do putsmail.com para os testes.
+- Layout fixo na largura;
+
+OBS:
+- Uso de SASS (scss) opcional;
+- Organização e performace do código serão avaliados;
+- Arquivos confidenciais que nao poderão ser usados para outros fins;

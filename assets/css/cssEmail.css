@@ -1,0 +1,133 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  height: auto;
+  font-family: UOLText,Arial,sans-serif;
+}
+.top{
+    background-image: linear-gradient(71deg, #FFBE2C, #f80 73%, #FFBE2C);
+     width: 100%;
+}
+.hrRed{
+    height: 35.5px;
+    color: #7B7C9B;
+    float: left;
+    position: relative;
+    border-left: 2px solid;
+    left: 47%;
+}
+.body{
+    width: 600px!important;
+    text-align: center;
+    position: relative;
+    left: 383px;
+    background-color: #01023B;
+}
+.bodyTop{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: #01023B;
+}
+.championsImg{
+    margin-left: -10%;
+}
+.interativoImg{
+    position: relative;
+    float: right;
+    right: 30%;
+    top: 21px;
+}
+.text{
+    color: white;
+}
+.text-item:nth-child(1){
+    color: #EFC211;
+    font-size: 22px;
+}
+.text-item:nth-child(2){
+    font-size: 22px;
+}
+.text-item:nth-child(4){
+    font-size: 22px;
+    position: relative;
+    top: -5px;
+}
+.text-item:nth-child(6){
+    position: relative;
+    top: 3px;
+}
+.text-item:nth-child(8){
+    
+}
+.btn{
+    margin-top: 33px;
+    padding: 9px 45px!important;
+    border-radius: 3px;
+    font-size: 114%!important;
+    color: white!important;
+    background-color: #EE3B37!important;
+    border-color: #EE3B37!important;
+    position: relative;
+    z-index: 99;
+}
+.smalL{
+    font-size: 87%;
+    margin-top: 1%;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+}
+.ceuImg{
+    margin-top: -73px;
+    position: relative;
+    float: left;
+    z-index: 9;
+}
+.baixoNeymarText{
+    flex-flow: row;
+    display: flex;
+    background-color: #EDEDED;
+    text-align: center;
+}
+.baixoNeymarText-item:nth-child(1){
+    flex: 0px;
+    position: relative;
+    left: 3%;
+}
+.baixoNeymarText-item:nth-child(2){
+    flex: 0px;
+    position: relative;
+    left: 1%;
+}
+.baixoNeymarText-item:nth-child(3){
+    flex: 0px;
+    position: relative;
+    left: -1%;
+}
+.footer{
+    background-color: white;
+    position: relative;
+    text-align: center;
+}
+.footer-item:nth-child(1){
+    position: relative;
+    left: 243px;
+    float: left;
+    top: 15px;
+}
+.footer-item:nth-child(2){
+    position: relative;
+    left: 243px;
+    float: left;
+    top: 15px;
+}
+.footer-item:nth-child(3){
+    position: relative;
+    left: 243px;
+    float: left;
+    top: 15px;
+}
+.textFooter{
+    
+}
